@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
+<h1 align="center">Hello Everyone 👋 <br /> I'm Alexander</h1>
 <h3 align="center">a passionate developer who also has many intentions to get involved in current technologies on the front end or mobile.</h3>
 
 <h3 align="left">Connect with me:</h3>
